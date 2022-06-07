@@ -1,7 +1,7 @@
 # Overview
 This project builds a binary `togreek` which converts ASCII shorthand to ancient greek unicode with diacriticals
 
-For instance
+For instance:
 
 ```
 'aret/e → ἀρετή
